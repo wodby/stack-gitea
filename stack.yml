@@ -1,6 +1,7 @@
 name: gitea
 title: Gitea
 icon: gitea
+docs: https://wodby.com/docs/2.0/stacks/catalog/gitea/
 
 services:
 - name: gitea
